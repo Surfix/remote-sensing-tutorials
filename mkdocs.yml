@@ -1,0 +1,16 @@
+site_name: Remote Sensing Tutorials
+nav:
+  - index.md
+  - Fundamentals:
+      - fundamentals/intro-to-remote-sensing.md
+  - Photogrammetry:
+      - photogrammetry/intro-to-photogrammetry.md
+  - lidar:
+      - lidar/intro-to-lidar.md
+  - multispectral:
+      - multispectral/intro-to-multispectral.md
+  - radar:
+      - radar/intro-to-radar.md
+  - hyperspectral:
+      - hyperspectral/intro-to-hyperspectral.md
+theme: readthedocs
