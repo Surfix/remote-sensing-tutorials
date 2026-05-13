@@ -13,4 +13,5 @@ nav:
       - radar/intro-to-radar.md
   - hyperspectral:
       - hyperspectral/intro-to-hyperspectral.md
+  - resources.md
 theme: readthedocs
